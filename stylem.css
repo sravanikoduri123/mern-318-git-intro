@@ -1,0 +1,90 @@
+/* .pigeon{
+    width: 100%;
+    border: 5px solid aqua;
+    border-radius: 20px;
+    margin: 50px auto;
+    padding: 16px;
+    
+}
+
+
+
+.img{
+    border-radius: 30px;
+    height: 400px;
+    width: 100%
+}
+
+.h3{
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.p{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.btn{
+    color: rgb(183, 232, 183);
+    background-color: rgb(206, 127, 255);
+    border-radius: 14px;
+    border: 2px solid red;
+    padding: 12px;
+    cursor: pointer;
+}
+@media(min-width: 886px){
+    .pigeon{
+        width: 470px;
+        border: 5px solid aqua;
+        border-radius: 20px;
+        margin: 50px auto;
+        padding: 16px;
+        
+    }
+    
+}
+@media(max-width: 586px){
+  .pigeon{
+    border: 5px solid aqua;
+    border-radius: 20px;
+    margin: 50px auto;
+    padding: 16px;
+    
+}
+}
+
+
+
+
+     */
+
+
+
+     
+        .food-card{
+            width: 340px;
+            border: 3px solid mediumslateblue;
+            border-radius: 16px;
+            padding: 16px;
+            margin: 10px;
+         }
+        
+    
+     .container{
+        display: flex;
+        justify-content: center;
+
+     }
+
+     
+
+     .food{
+        height: 200px;
+        width:100%
+        
+
+     }
+    
